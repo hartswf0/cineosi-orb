@@ -1,0 +1,25 @@
+Gemini Omni Flash 1.2 / Google Flow reference-to-video. 15 seconds, 16:9, 1080p, 24fps, native audio.
+
+REFERENCES (all attached; each has one job, use only that job):
+- video 1 (u_museum-no-screen.mp4): MUSEUM UI LOCK: top 75% grounded stage with ")" crescent off to the right of the cake; bottom 25% screenless 5-ring brushed metal barrel (NO screen above the orb, ZERO text).
+- video 2 (v1_cake-appears.mp4): WORLD MOTION of the cake (orb-free film shot): appears in dark room, flickers through icings, tilts.
+- video 3 (v3_children-fade.mp4): WORLD MOTION of the children (orb-free film shot): ghost-transparent, then solid round a lit table.
+- image 1 (museum_ui1_cake.jpg): MUSEUM FRAME 1: screenless 5-ring cylinder below, grounded cake on walnut table above.
+- image 2 (museum_ui2_candles.jpg): MUSEUM FRAME 2: screenless 5-ring cylinder below, lit two-tier cake + ")" crescent above.
+- image 3 (museum_ui3_children.jpg): MUSEUM FRAME 3: screenless 5-ring cylinder below, children gathered around the cake above.
+- image 4 (i1_room-before-cake.jpg): ROOM: empty dark room with one pale line of light along the horizon.
+- image 5 (i3_writing-reticle.jpg): FRAMING: cake on the left/center, translucent smoked-glass crescent curving ")" off to its right (concave inner curve cupping toward the cake).
+- image 6 (i4_children-lit-table.jpg): SEATING: children in a half ring round a grounded wooden table lit by the cake.
+Everything else in the references (people, clothes, cake, room contents, colours) is replaced by the brief below.
+
+WORLD: a warm dark ondol room with paper window horizon glow and grounded low walnut table. Cake: a white Mujigae rice-cake birthday cake with red bean and a ring of fresh persimmon slices, red icing writing. People: six children in colour-block hanbok and one in a 1990s tracksuit, sleeves tied back. Palette: persimmon orange, ivory and sea green. Language: Korean.
+
+STRUCTURE (one continuous 15 second take):
+[0-2.5s] The dark room: a warm dark ondol room with paper window horizon glow and grounded low walnut table, with a grounded wooden table and ivory porcelain stand clearly visible. Pale line of light on the horizon. HUD title: "PICK THE CAKE"; ring 2 is lit.
+[2.5-6s] On the grounded porcelain stand, a white Mujigae rice-cake birthday cake with red bean and a ring of fresh persimmon slices, red icing writing materializes at heroic scale with clear under-cake shadow, flickering through three icings and tilting toward the camera. HUD title: "WALK AROUND IT"; ring 3 is lit.
+[6-9s] The cake swings upright. Red icing pipes stroke by stroke across the crown, reading "생일 축하해" (Saengil chukhahae). A pale crescent ")" hangs off to its right (concave side cupping toward the cake). HUD title: "WRITE ON IT"; ring 4 is lit.
+[9-12s] Six children in colour-block hanbok and one in a 1990s tracksuit, sleeves tied back fade in around the grounded table: first translucent ghosts, then solid, warmly lit by the seven candles. HUD title: "THE CHILDREN COME"; ring 2 is lit.
+[12-14s] Warm 2200K candlelight flickers across one child face in shallow DOF. HUD title: "LOOK AT THEM"; ring 3 is lit.
+[14-15s] All seven candles blow out together, thin smoke rises, and warm light falls to twilight. HUD title: "BLOW THEM OUT"; ring 4 is lit.
+
+Layout: 16:9. Top 75% is the grounded cinema world (solid beveled wooden table, ivory porcelain cake stand with clear under-cake contact shadow, heroic cake scale); bottom 25% is the MUSEUM-GRADE SCREENLESS 5-RING CYLINDRICAL MEMORY ORB BARREL copied from the museum references — NO rectangular screen or monitor above the orb, NO text labels, NO HUD captions anywhere. Off to the right side of the cake floats one translucent pale smoked-glass crescent curving ")" (concave inner side cupping toward the cake, convex outer belly facing right, two fine inward-pointing gauge needles, never wrapping or touching the cake). Hard rules. Do not show any handheld device, orb, lens, camera, or glowing gadget in the stage world, and nothing in anyone hands except a cake knife or plate. One continuous locked-off cinema shot, 35mm anamorphic, warm 2200K candlelight + clear grounded wooden table and porcelain stand beneath the cake. No music, no captions except the piped cake writing. Audio: room tone, soft rising hum when the cake appears, gentle sigh of breath when the flames go out.
